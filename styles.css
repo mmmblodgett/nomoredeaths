@@ -1,9 +1,7 @@
-body {
-    background-image: url("detail.jpeg");
-    background-color: teal;
+html { 
+    background: url(detail.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-repeat: no-repeat;
-    position: fixed;
-    width: 100%;
-    height: 100%;
   }
